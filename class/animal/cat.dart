@@ -6,6 +6,6 @@ class Cat extends Animal {
   Cat(String name, int age, double weight, String furColor) : super(name, age, weight);
 
   void walk() {
-    print('$name is walking');
+    // print('$_name is walking');
   }
 }

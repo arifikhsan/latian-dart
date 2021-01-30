@@ -1,4 +1,4 @@
-abstract class Animal {
+class Animal {
   String _name;
   int _age;
   double _weight;
