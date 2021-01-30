@@ -5,4 +5,6 @@ main() {
   dicodingCat.eat();
   dicodingCat.poop();
   print(dicodingCat.weight);
+
+  Animal.Name('apa');
 }
