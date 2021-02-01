@@ -11,6 +11,8 @@ class Animal {
     _name = name;
   }
 
+  String get name => _name;
+
   double get weight => _weight;
 
   void eat() {

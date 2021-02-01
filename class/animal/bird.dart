@@ -8,6 +8,6 @@ class Bird extends Animal implements Flyable {
 
   @override
   void fly() {
-    // print('$name is flying');
+    print('$name is flying');
   }
 }
