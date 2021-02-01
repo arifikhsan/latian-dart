@@ -8,4 +8,5 @@ main() {
   print(capital.values);
   capital['New Delhi'] = 'India';
   print(capital);
+  print(capital['key']);
 }
